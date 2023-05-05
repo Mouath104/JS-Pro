@@ -12,7 +12,7 @@ The Hotel Management System allows you to:
 
 ## Examples
 * To create a new Room object, you can use the following code:<br>
-let r1 = new Room(4, "104A", 500, true);
+`let r1 = new Room(4, "104A", 500, true);`
 
 * To create a new SleepingRoom object, you can use the following code:<br>
 let slr1 = new SleepingRoom(5, 4, "A105", 5000, true);
