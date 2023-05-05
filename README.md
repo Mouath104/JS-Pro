@@ -25,9 +25,7 @@ let r1 = new Room(4, "104A", 500, true);<br>
 let r2 = new Room(4, "102C", 600, true);<br>
 let r3 = new Room(4, "104N", 400, false);<br>
 let r4 = new Room(5, "105A", 550, true);<br>
-
 let rooms = [r1, r2, r3, r4];<br>
-
 let H1 = new Hotel("Chicago", 4, 1, 3, rooms);<br>
 
 * To list all booked rooms in the hotel, you can use the following code:<br>
